@@ -21,3 +21,9 @@ To run streamlit
 ```
 streamlit run visual_stream.py
 ```  
+
+To view the graph
+```
+python 1-plot-singer.py
+python 3-plot.py
+```
