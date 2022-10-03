@@ -24,6 +24,8 @@ st.write(songs)
 
 st.bar_chart(songs["Song"])
 
+st.balloons()
+
 # st.line_chart(df,"count")
 #Bar Chart
 # st.bar_chart(songs["Song"])
